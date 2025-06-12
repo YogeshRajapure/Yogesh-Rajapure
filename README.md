@@ -48,7 +48,11 @@ Email Me 👉 ✉️ bantirajapure2005@gmail.com
 
 ### 🔝 Top Contributed Repo:
 
-### 🔝 Top Contributed Repo:
+---
 
-[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=yogeshRAJAPURE&repo=Amazon-Sales-Dashboard&theme=radical)](https://github.com/yogeshRAJAPURE/YogeshRajapure)
+### 🔝 Top Contributed Repo
+
+[![Yogesh Rajapure's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=yogeshRAJAPURE&limit=3&theme=dark&combine_all_yearly_contributions=true)](https://github.com/yogeshRAJAPURE)
+
+[![Amazon Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=yogeshRAJAPURE&repo=amazon-sales-dashboard&theme=radical)](https://github.com/yogeshRAJAPURE/amazon-sales-dashboard)
 
