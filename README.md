@@ -49,10 +49,6 @@ Email Me 👉 ✉️ bantirajapure2005@gmail.com
 
 ---
 
-### 🔝 Top Contributed Repo:
-
----
-
 ### 🔝 Top Contributed Repo
 
 [![Yogesh Rajapure's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=yogeshRAJAPURE&limit=3&theme=dark&combine_all_yearly_contributions=true)](https://github.com/yogeshRAJAPURE)
