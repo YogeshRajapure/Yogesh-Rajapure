@@ -1,5 +1,15 @@
-# Yogesh-Rajapure
-Hello World This Is My Profile
+# 👋 Hello, I'm Yogesh Rajapure
+
+Email Me 👉 ✉️ bantirajapure2005@gmail.com  
+🤝 For Collaboration / Projects / Freelance / Anything Else 😊😊**
+
+---
+
+🌱 I’m currently learning: **Data Analytics Tools & Techniques**  
+📫 How to reach me: bantirajapure2005@gmail.com  
+😄 Pronouns: Banty 
+📍 Location: **Pune, India**
+
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/banty_1613?igsh=MXZtNzB2MTY1ZHQ0dQ==&utm_source=ig_contact_invite)  
@@ -20,9 +30,25 @@ Hello World This Is My Profile
 
 ---
 
+
 ### 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogeshRajapure&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshRAJAPURE&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshRajapure&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshRAJAPURE&layout=compact&theme=radical)
+
+---
+
+ 💬 Code Wisdom of the Day:
+
+"Experience is the name everyone gives to their mistakes."
+ — Oscar Wilde
+
+---
+
+### 🔝 Top Contributed Repo:
+
+[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=yogeshRAJAPURE&AmazonnSalesDashboard&theme=radical)](https://github.com/yogeshRAJAPURE/तुझंRepoName)
+
+
 
