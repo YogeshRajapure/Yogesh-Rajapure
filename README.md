@@ -24,5 +24,5 @@ Hello World This Is My Profile
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogeshRajapure&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshRajaoure&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshRajapure&layout=compact&theme=radical)
 
