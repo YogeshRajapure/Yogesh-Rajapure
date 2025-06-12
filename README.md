@@ -16,3 +16,13 @@ Hello World This Is My Profile
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+
+---
+
+### 📊 GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogeshRajapure&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshRajaoure&layout=compact&theme=radical)
+
